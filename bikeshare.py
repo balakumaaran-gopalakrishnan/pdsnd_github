@@ -1,12 +1,17 @@
 import time
 import pandas as pd
 import numpy as np
+
 # first edit for udacity
 # second edit for udacity
 # third edit for udacity
 # fourth edit for udacity
 #additonal changes - 5th change
 #additonal changes - 6th change
+
+#refactoring comment #1
+#refactoring comment #2
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
