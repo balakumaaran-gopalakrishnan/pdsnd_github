@@ -6,6 +6,7 @@ import numpy as np
 # third edit for udacity
 # fourth edit for udacity
 #additonal changes - 5th change
+#additonal changes - 6th change
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
